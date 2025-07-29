@@ -24,7 +24,7 @@
 
 ## 📷 Demo
 
-> **Live Preview:** (https://novapixels.onrender.com/)
+> **Live Preview:** (https://novapixels.netlify.app/)
 
 ![NovaPixels Demo Screenshot](./screenshot.png)
 
